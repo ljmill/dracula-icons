@@ -1,3 +1,5 @@
+<p align="center"><img width="50%" src="https://github.com/ljmill/dracula-icons/blob/main/assets/main.svg"/></p>
+
 ## Installation
 Download `Dracula-SE.tar.bz2` archive from [Releases](https://github.com/ljmill/dracula-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
 
